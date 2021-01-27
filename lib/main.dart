@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return new MaterialApp(
       theme: ThemeData(primaryColor: Colors.blue),
       home: Demo(),
-      title: "My Porfolio",
+      title: "Ali Raza",
     );
   }
 }
